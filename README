@@ -4,9 +4,13 @@ Pushing a sentence
 Need more info
 
 
+<<<<<<< HEAD
 Need more people to complete this
 Testing branching now
 Testing merging now
+=======
+Need more people to complete this
+>>>>>>> feature-2
 
 
 <<<<<<< HEAD
