@@ -5,16 +5,24 @@ Need more info
 
 
 <<<<<<< HEAD
+
 Need more people to complete this
+
 Testing branching now
+
 Testing merging now
+
 =======
+
 Need more people to complete this
+
 >>>>>>> feature-2
 
 
 <<<<<<< HEAD
+
 I am loving it -----made locally
+
 I am going to do it -----made locally
 
 >>>>>>> df4eea5adb50fa2f78d0d7ea831aefbe0dc526e6
@@ -27,7 +35,13 @@ Ok Sure.
 
 
 Learning more about git
+
 =======
+
 Testing muliple commits
+
 >>>>>>> e14832407c0cfb92d1241cd6334bf72262031214
+
 Trying something different here
+
+Checking out recursive merge
